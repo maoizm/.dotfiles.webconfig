@@ -1,0 +1,42 @@
+{
+  "nextId": 3,
+  "logins": [
+    {
+      "id": 1,
+      "hostname": "https://accounts.google.com",
+      "httpRealm": null,
+      "formSubmitURL": "https://accounts.google.com",
+      "usernameField": "Email",
+      "passwordField": "Passwd",
+      "encryptedUsername": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECI+pcAYQiejxBBhdLmpIc97pE/GCo5iUOXj6iz85zVDsi3c=",
+      "encryptedPassword": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECKs6erssMi+OBBCnOk3nA8O8zNVlPlzQmnYC",
+      "guid": "{b4002d5f-17d2-4b4e-99d9-f75f9ef6e95f}",
+      "encType": 1,
+      "timeCreated": 1451145953203,
+      "timeLastUsed": 1452161173816,
+      "timePasswordChanged": 1451145953203,
+      "timesUsed": 2
+    },
+    {
+      "id": 2,
+      "hostname": "http://vk.com",
+      "httpRealm": null,
+      "formSubmitURL": "https://login.vk.com",
+      "usernameField": "email",
+      "passwordField": "pass",
+      "encryptedUsername": "MDoEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECH1tMBISOAbBBBBPcVuWNzHL5R9snzDyirzQ",
+      "encryptedPassword": "MEIEEPgAAAAAAAAAAAAAAAAAAAEwFAYIKoZIhvcNAwcECBooqRHBJjcXBBiMx2spnzZu8zerBuTYp+3Iv8uzSAbDHrk=",
+      "guid": "{27ab41cc-8a8f-48e6-bb9a-425796fb9b2f}",
+      "encType": 1,
+      "timeCreated": 1452159448421,
+      "timeLastUsed": 1452159448421,
+      "timePasswordChanged": 1452159448421,
+      "timesUsed": 1
+    }
+  ],
+  "disabledHosts": [],
+  "version": 1
+}
+
+
+
